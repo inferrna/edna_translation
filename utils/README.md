@@ -1,5 +1,5 @@
 Packer & unpacker. Originally posted by user supin here: https://www.old-games.ru/forum/threads/voprosy-po-rusifikacii-igr.13182/page-21#post-1704396
-Compile it with freepascal compiler:
+<br>Compile it with freepascal compiler:
 ```
 fpc txt_pack.pas
 fpc txt_unpack.pas
